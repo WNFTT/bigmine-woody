@@ -6,7 +6,7 @@ import { PrivyProvider } from "@privy-io/react-auth";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <PrivyProvider
-    appId="cm04asygd041fmry9zmcyn5o5"
+    appId="cm9gixcd400cbl40myxijxpf3"
     config={{
       embeddedWallets: {
         createOnLogin: "users-without-wallets"
